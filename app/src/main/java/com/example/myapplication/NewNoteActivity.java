@@ -85,6 +85,7 @@ public class NewNoteActivity extends AppCompatActivity {
                 if(task.isSuccessful()){
                     Toast.makeText(NewNoteActivity.this, "delete", Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(NewNoteActivity.this,NoteDetailsActivity.class));
+                    finish();
                 }
                 else{
                     Toast.makeText(NewNoteActivity.this,"failed",Toast.LENGTH_SHORT).show();
@@ -138,6 +139,7 @@ public class NewNoteActivity extends AppCompatActivity {
                 if(task.isSuccessful()){
                     Toast.makeText(NewNoteActivity.this, "uploaded", Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(NewNoteActivity.this,NoteDetailsActivity.class));
+                    finish();
 
                 }
                 else{

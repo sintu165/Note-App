@@ -32,6 +32,7 @@ public class NoteDetailsActivity extends AppCompatActivity {
         noteDetailsRecyclerView=findViewById(R.id.noteDetailsRecyclerview);
         addNewNoteBtn.setOnClickListener(view -> {
             startActivity(new Intent(NoteDetailsActivity.this, NewNoteActivity.class));
+            finish();
         });
 
         setUpRecyclerView();
