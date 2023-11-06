@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="title_activity_note_details">NoteDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+
+
+</resources>
