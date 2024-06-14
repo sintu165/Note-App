@@ -18,11 +18,11 @@ no matter which device you use.
 5. **Offline Access:** Access notes without an internet connection.
 
 ## Screenshots
-<img src="https://github.com/sintu165/Note-App/assets/107928707/5fd7101c-ac5f-4c32-9bbe-e0881bbd8155" alt="Login Screen" width="300" height ="400">
-<img src="https://github.com/sintu165/Note-App/assets/107928707/0ad80e82-b2f2-401d-85f7-c307536bc733" alt="All Notes Screen" width="300" height ="400">
-<img src="https://github.com/sintu165/Note-App/assets/107928707/339cb097-2f3a-4444-855d-c9741b7a2a19" alt="Add New Note Screen" width="300" height ="400">
-<img src="https://github.com/sintu165/Note-App/assets/107928707/06ac56ea-8961-4f3b-86ac-b2c3bd2aba7a" alt="Edit Your Note Screen" width="300" height ="400">
-<img src="https://github.com/sintu165/Note-App/assets/107928707/516b3fc9-6995-4e7d-866f-60498e159286" alt="User Profile" width="300" height ="400">
+<img src="https://github.com/sintu165/Note-App/assets/107928707/5fd7101c-ac5f-4c32-9bbe-e0881bbd8155" alt="Login Screen" width="250" height ="400">
+<img src="https://github.com/sintu165/Note-App/assets/107928707/0ad80e82-b2f2-401d-85f7-c307536bc733" alt="All Notes Screen" width="250" height ="400">
+<img src="https://github.com/sintu165/Note-App/assets/107928707/339cb097-2f3a-4444-855d-c9741b7a2a19" alt="Add New Note Screen" width="250" height ="400">
+<img src="https://github.com/sintu165/Note-App/assets/107928707/06ac56ea-8961-4f3b-86ac-b2c3bd2aba7a" alt="Edit Your Note Screen" width="250" height ="400">
+<img src="https://github.com/sintu165/Note-App/assets/107928707/516b3fc9-6995-4e7d-866f-60498e159286" alt="User Profile" width="250" height ="400">
 
 ## Installation
 To install and run this app on your Android device, follow these steps:
